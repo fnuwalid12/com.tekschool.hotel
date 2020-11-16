@@ -12,6 +12,8 @@ public class TryItYourself {
 		// second comment
 		// third comment
 		// all comments 
+		System.out.println("This is something i tried in GITHUB");
+		//All it is this would be done
 }
 	
 	
